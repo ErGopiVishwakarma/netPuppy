@@ -42,7 +42,7 @@ const HomePage3 = () => {
                         <Image src={whytis4} w={'40px'}  m={'auto'} />
                         <Text mt={'1px'} textAlign={'center'} fontSize={'12px'} fontWeight={'500'}>RATIO</Text>
                     </Flex>
-                    <Flex backgroundColor={'red'} direction={'column'} gap={"0px"} textAlign={'center'} px={'10px'} py={'5px'} borderRadius={'20px'}>
+                    <Flex backgroundColor={'#B90124'} direction={'column'} gap={"0px"} textAlign={'center'} px={'10px'} py={'5px'} borderRadius={'20px'}>
                         <Image src={whytis5} w={'40px'}  m={'auto'} />
                         <Text mt={'1px'} textAlign={'center'} fontSize={'12px'} fontWeight={'500'}>MANAGEMENT</Text>
                     </Flex>

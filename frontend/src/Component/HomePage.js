@@ -10,8 +10,8 @@ const HomePage = () => {
     return (
         <Flex w="90%"  m="auto" boxSizing='borderBox' pb='100px'>
             {/* left section  */}
-            <Box className='left' w="45%">
-                <Box className='left1'>
+            <Box w="45%">
+                <Box >
                     <Text fontFamily="Mirador"
                         fontSize="30px"
                         fontStyle="italic"
@@ -33,7 +33,7 @@ const HomePage = () => {
                 </Box>
             </Box>
             {/* middle  */}
-            <Box className='mid' w="20%" ml="40" mr="10" display="flex" justifyContent="center" alignItems="center">
+            <Box w="20%" ml="40" mr="10" display="flex" justifyContent="center" alignItems="center">
                 <Image src={seeMoreImage} w={'160px'} h={'160px'} />
             </Box>
             {/* right  */}

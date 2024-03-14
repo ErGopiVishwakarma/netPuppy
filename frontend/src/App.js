@@ -8,6 +8,7 @@ import HomePage4 from './Component/HomePage4';
 import HomePage3 from './Component/HomePage3';
 import HomeImage5 from './Component/HomeImage5';
 import HomePage6 from './Component/HomePage6';
+import HomePage7 from './Component/HomePage7';
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
       <HomePage4 />
       <HomeImage5 />
       <HomePage6 />
+      <HomePage7 />
     </Box>
   );
 }

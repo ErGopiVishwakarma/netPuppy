@@ -19,7 +19,7 @@ const HomeImage5 = () => {
                 </Box>
             </Box>
             {/* middle  */}
-            <Box className='mid' w="20%" ml="40" mr="10" display="flex" justifyContent="center" alignItems="center">
+            <Box w="20%" ml="40" mr="10" display="flex" justifyContent="center" alignItems="center">
                 <Image src={seeMoreImage} w={'160px'} h={'160px'} />
             </Box>
             {/* right  */}
